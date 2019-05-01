@@ -115,6 +115,14 @@ visit the [CockroachDB in Comparison](https://www.cockroachlabs.com/docs/stable/
 - Key Design documents:
   - [Serializable, Lockless, Distributed: Isolation in CockroachDB](https://www.cockroachlabs.com/blog/serializable-lockless-distributed-isolation-cockroachdb/)
   - [Consensus, Made Thrive](https://www.cockroachlabs.com/blog/consensus-made-thrive/)
-  - [Trust, But Verify: How CockroachDB Checks Replication](https://www.cockroachlabs.com/blog/trust-but-verify-cockroachdb-checks-replication/)
+  - [Trust, But Verify: How CockroachDB Checks Replication](https://www.cockroachlabs.com/blog/trust-but-verify-cockroachdb-
+  
+  
+  
+  
+  checks-replication/)
   - [Living Without Atomic Clocks](https://www.cockroachlabs.com/blog/living-without-atomic-clocks/)
   - [The CockroachDB Architecture Document](https://github.com/cockroachdb/cockroach/blob/master/docs/design.md)
+  
+  
+ THis is a change that I'm making to the  
